@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">showcase_nav</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_show_case">Click This </string>
+    <string name="detail_show_case">See the detail here</string>
+</resources>
